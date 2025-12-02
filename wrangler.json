@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "jas-hujan",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "305b0829-0452-4013-8e9d-45c88910ff92",
+			"database_name": "jas-hujan"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
